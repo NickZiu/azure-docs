@@ -18,6 +18,7 @@ ms.author: eur
 * Support 2 new styles `sports-commentary`, `sports-commentary-excited` in public preview for `zh-CN-YunjianNeural`. See [voice styles and roles](../../language-support.md#voice-styles-and-roles).
 * Support 1 new style `advertisement-upbeat` in public preview for `zh-CN-YunhaoNeural`. See [voice styles and roles](../../language-support.md#voice-styles-and-roles).
 * `fr-FR-DeniseNeural` emotions `cheerful` and `sad` are GA in all regions and some bug fixes.
+•	SSML updated to support MathML elements. Learn more at [speech synthesis markup](../../speech-synthesis-markup.md#supported-mathml-elements).
 
 
 ### 2022-March release
